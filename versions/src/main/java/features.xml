@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature name="versions" version="1.0.0" resolver="(obr)">
+<bundle>mvn:org.mat.versions/1.0.0</bundle>
+<bundle>mvn:org.mat.service/1.0.0</bundle>
+<bundle>mvn:org.mat.service/2.0.0</bundle>
+<bundle>mvn:org.mat.service/3.0.0</bundle>
+</feature>
